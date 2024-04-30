@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+}
+.prime{
+    color:red;
+}
+.composite{
+    color:green;
+}
+#orange{
+    color:orange;
+}
+#purple{
+    color:purple;
+}
+#skyblue{
+    color:skyblue;
+}
+
